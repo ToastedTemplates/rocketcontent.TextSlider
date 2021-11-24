@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DNNrocketAPI">
+      <HintPath>..\..\..\rocketcontent.ImgSliderInd\bin\Debug\netstandard2.0\DNNrocketAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="RazorEngine">
+      <HintPath>..\..\..\rocketcontent.ImgSliderInd\bin\Debug\netstandard2.0\RazorEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="RocketContent">
+      <HintPath>..\..\..\rocketcontent.ImgSliderInd\bin\Debug\netstandard2.0\RocketContent.dll</HintPath>
+    </Reference>
+    <Reference Include="RocketPortal">
+      <HintPath>..\..\..\rocketcontent.ImgSliderInd\bin\Debug\netstandard2.0\RocketPortal.dll</HintPath>
+    </Reference>
+    <Reference Include="Simplisity">
+      <HintPath>..\..\..\rocketcontent.ImgSliderInd\bin\Debug\netstandard2.0\Simplisity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
