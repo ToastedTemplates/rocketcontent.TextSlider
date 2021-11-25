@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31912.275
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rocketcontent.TextSlider", "rocketcontent.TextSlider\rocketcontent.TextSlider\rocketcontent.TextSlider.csproj", "{FAF751CC-EABE-48DC-86D7-965E98D20473}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rocketcontent.TextSlider", "rocketcontent.TextSlider.csproj", "{C2B30F22-8CB0-41FD-A5C2-CDEB5E56024C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FAF751CC-EABE-48DC-86D7-965E98D20473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FAF751CC-EABE-48DC-86D7-965E98D20473}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FAF751CC-EABE-48DC-86D7-965E98D20473}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FAF751CC-EABE-48DC-86D7-965E98D20473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B30F22-8CB0-41FD-A5C2-CDEB5E56024C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B30F22-8CB0-41FD-A5C2-CDEB5E56024C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B30F22-8CB0-41FD-A5C2-CDEB5E56024C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B30F22-8CB0-41FD-A5C2-CDEB5E56024C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8EF2BC3D-C557-4CBE-9566-BC1A78BFCF68}
+		SolutionGuid = {E6FB63C1-3B3F-4871-8871-5D5ADF9A8949}
 	EndGlobalSection
 EndGlobal
